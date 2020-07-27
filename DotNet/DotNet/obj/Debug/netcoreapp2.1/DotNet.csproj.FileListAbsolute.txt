@@ -1,0 +1,10 @@
+C:\Users\emreu\source\repos\DotNet\DotNet\obj\Debug\netcoreapp2.1\DotNet.csprojAssemblyReference.cache
+C:\Users\emreu\source\repos\DotNet\DotNet\obj\Debug\netcoreapp2.1\DotNet.AssemblyInfoInputs.cache
+C:\Users\emreu\source\repos\DotNet\DotNet\obj\Debug\netcoreapp2.1\DotNet.AssemblyInfo.cs
+C:\Users\emreu\source\repos\DotNet\DotNet\bin\Debug\netcoreapp2.1\DotNet.deps.json
+C:\Users\emreu\source\repos\DotNet\DotNet\bin\Debug\netcoreapp2.1\DotNet.runtimeconfig.json
+C:\Users\emreu\source\repos\DotNet\DotNet\bin\Debug\netcoreapp2.1\DotNet.runtimeconfig.dev.json
+C:\Users\emreu\source\repos\DotNet\DotNet\bin\Debug\netcoreapp2.1\DotNet.dll
+C:\Users\emreu\source\repos\DotNet\DotNet\bin\Debug\netcoreapp2.1\DotNet.pdb
+C:\Users\emreu\source\repos\DotNet\DotNet\obj\Debug\netcoreapp2.1\DotNet.dll
+C:\Users\emreu\source\repos\DotNet\DotNet\obj\Debug\netcoreapp2.1\DotNet.pdb
